@@ -1,0 +1,102 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #000000;
+    color: #000000;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    padding: 20px 0;
+}
+
+/* Introduction Styles */
+#introduction {
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    border: 1px solid #dddd;
+    margin-bottom: 20px;
+}
+
+#introduction h2 {
+    margin-top: 0;
+}
+
+#introduction p {
+    margin-bottom: 10px;
+}
+
+.container {
+    
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    padding: 20px 0;
+}
+#Structure{
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    border: 1px solid #dddd;
+    margin-bottom: 20px;
+}
+#resources{
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    border: 1px solid #dddd;
+    margin-bottom: 20px;
+}
+h1, h2, h3 {
+    margin: 0 0 15px;
+}
+li{
+    margin-left: 27px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #00e600;
+}
+
+header {
+    background: #000000;
+    color: #fff;
+    padding: 10px 0;
+    border-bottom: #070707 3px solid;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header nav {
+    float: right;
+}
+
+header nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin-left: 20px;
+}
+
+header nav ul li a {
+    color: #fff;
+    font-size: 16px;
+}
+
